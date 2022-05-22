@@ -3,7 +3,7 @@
   "name": "Ecoplug",
   "documentation": "https://github.com/n8hjp/ecoplug/",
   "dependencies": [],
-  "version": "0.0.6"
+  "version": "0.0.6",
   "codeowners": [],
   "requirements": ["pyecoplug==0.0.5"]
 }
